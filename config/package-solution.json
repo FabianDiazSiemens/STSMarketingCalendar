@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sharepoint-framework-react-hooks-client-side-solution",
+    "id": "9476ddfa-5c45-4437-b26a-1155767323d5",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "sharepoint-framework-react-hooks description"
+      },
+      "longDescription": {
+        "default": "sharepoint-framework-react-hooks description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "sharepoint-framework-react-hooks Feature",
+        "description": "The feature that activates elements of the sharepoint-framework-react-hooks solution.",
+        "id": "788f8ee7-c4be-4c9a-bce2-e7c0605fe9aa",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/sharepoint-framework-react-hooks.sppkg"
+  }
+}

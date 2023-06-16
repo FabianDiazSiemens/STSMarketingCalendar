@@ -1,0 +1,46 @@
+/* tslint:disable */
+require("./STSMarketingCalendar.module.css");
+const styles = {
+  workbenchPageContent: 'workbenchPageContent_549e359d',
+  i_a_8474018e: 'i_a_8474018e_549e359d',
+  mainContent: 'mainContent_549e359d',
+  container: 'container_549e359d',
+  event: 'event_549e359d',
+  main: 'main_549e359d',
+  paper: 'paper_549e359d',
+  calendar: 'calendar_549e359d',
+  copyright: 'copyright_549e359d',
+  timeline: 'timeline_549e359d',
+  title: 'title_549e359d',
+  time: 'time_549e359d',
+  icon: 'icon_549e359d',
+  timemarker: 'timemarker_549e359d',
+  days: 'days_549e359d',
+  date: 'date_549e359d',
+  day: 'day_549e359d',
+  events: 'events_549e359d',
+  blank: 'blank_549e359d',
+  view: 'view_549e359d',
+  viewx: 'viewx_549e359d',
+  week: 'week_549e359d',
+  datenum: 'datenum_549e359d',
+  dateday: 'dateday_549e359d',
+  label: 'label_549e359d',
+  tag0: 'tag0_549e359d',
+  tag1: 'tag1_549e359d',
+  tag2: 'tag2_549e359d',
+  tag3: 'tag3_549e359d',
+  tag4: 'tag4_549e359d',
+  tag5: 'tag5_549e359d',
+  header: 'header_549e359d',
+  row: 'row_549e359d',
+  left: 'left_549e359d',
+  right: 'right_549e359d',
+  clear: 'clear_549e359d',
+  hidden: 'hidden_549e359d',
+  dialog: 'dialog_549e359d',
+  data: 'data_549e359d'
+};
+
+export default styles;
+/* tslint:enable */

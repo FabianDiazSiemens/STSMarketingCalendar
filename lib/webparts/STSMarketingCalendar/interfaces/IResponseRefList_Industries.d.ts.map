@@ -1,0 +1,1 @@
+{"version":3,"file":"IResponseRefList_Industries.d.ts","sourceRoot":"","sources":["../../../../src/webparts/STSMarketingCalendar/interfaces/IResponseRefList_Industries.ts"],"names":[],"mappings":"AACA,MAAM,WAAW,2BAA2B;IAC1C,EAAE,EAAE,MAAM,CAAC;IACX,KAAK,EAAE,MAAM,CAAC;IACd,aAAa,EAAE,MAAM,CAAC;IACtB,YAAY,EAAE,MAAM,CAAC;IACrB,oBAAoB,EAAE,MAAM,CAAC;CAC9B"}

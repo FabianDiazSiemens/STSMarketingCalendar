@@ -1,0 +1,1 @@
+{"version":3,"file":"IResponseRefListCampaigns.d.ts","sourceRoot":"","sources":["../../../../src/webparts/STSMarketingCalendar/interfaces/IResponseRefListCampaigns.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,yBAAyB;IACxC,EAAE,EAAE,MAAM,CAAC;IACX,KAAK,EAAE,MAAM,CAAC;IACd,mBAAmB,EAAE;QAAE,KAAK,EAAE,MAAM,CAAA;KAAE,CAAC;CACxC"}
